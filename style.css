@@ -30,6 +30,12 @@ body {
     font-weight: bold;
 }
 
+.warna {
+    color: blue;
+    font-size: 16px;
+    font-weight: bold;
+}
+
 .footer {
     text-align: center;
     padding: 15px;
