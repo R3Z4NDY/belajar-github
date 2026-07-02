@@ -9,7 +9,7 @@ body {
     background: #2d6cdf;
     color: white;
     text-align: center;
-    padding: 30px 10px;
+    padding: 30px 10px; /* Padding atas dan bawah 30px, padding kanan kiri 10px*/
 }
 
 .container {
