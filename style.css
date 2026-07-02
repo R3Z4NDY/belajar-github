@@ -48,3 +48,9 @@ body {
     background: #222;
     color: white;
 }
+
+.title1 {
+    color: #be33ff;
+    font-size: 24px;
+    font-weight: bold;
+}
